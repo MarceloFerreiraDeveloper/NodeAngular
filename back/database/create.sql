@@ -1,6 +1,6 @@
-create schema bloggggggg;
+create schema bbbbblog;
 
-create table bloggggggg.post(
+create table bbbblog.post(
     id:serial primary key,
     title text not null,
     context text not null,
